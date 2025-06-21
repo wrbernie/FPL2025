@@ -64,7 +64,7 @@ def main():
     create_player_data()
 
 if __name__ == "__main__":
-    create_player_data()
+    main()
 
     
 
